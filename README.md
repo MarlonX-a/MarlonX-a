@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Marlon Alvia</h1>
+<h1 align="center">Hola 👋, soy MarlonX-a</h1>
 
 <h3 align="center">Fullstack Developer | Backend Focused | Software Engineering</h3>
 
@@ -62,7 +62,7 @@ Me interesa especialmente el backend, arquitectura limpia y bases de datos moder
 
 ## 🎮 Extra
 
-Fuera del código, disfruto jugar Valorant 🎯
+Fuera del código, disfruto jugar Valorant 🎯  
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg" width="90"/>
 
 ---
@@ -72,4 +72,3 @@ Fuera del código, disfruto jugar Valorant 🎯
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
-
