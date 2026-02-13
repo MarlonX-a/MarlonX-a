@@ -43,11 +43,11 @@ Me interesa especialmente el backend, arquitectura limpia y bases de datos moder
 ## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarlonX-a&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonX-a&theme=tokyonight" />
 </p>
 
 ---
@@ -63,11 +63,12 @@ Me interesa especialmente el backend, arquitectura limpia y bases de datos moder
 ## 🎮 Extra
 
 Fuera del código, disfruto jugar Valorant 🎯
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg" width="90"/>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/MarlonX-a">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
