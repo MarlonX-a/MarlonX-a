@@ -150,4 +150,47 @@ Software Engineering
 
 <div align="center">
 
-<img width="48%" src="https://github
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarlonX-a&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonX-a&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=MarlonX-a&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### 🎯 Engineering Goals
+
+- Become a stronger **Backend & Software Engineer**
+- Design maintainable, secure and scalable systems
+- Deepen my knowledge of **Kotlin and mobile development**
+- Learn more about **distributed systems, cloud and DevOps**
+- Contribute to meaningful **open-source projects**
+- Explore the intersection of **AI and Software Engineering**
+
+---
+
+### 🎮 Beyond the Code
+
+When I'm not coding, you'll probably find me:
+
+- 🎯 Playing **VALORANT**
+- 🧠 Learning something new about technology
+- 🛠️ Experimenting with personal projects
+- 💡 Thinking about the next thing to build
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MarlonX-a">
+  <img src="https://img.shields.io/badge/GitHub-MarlonX--a-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**Open to learning, collaborating and building interesting things.**
+
+<sub>Code. Learn. Build. Improve. Repeat. 🚀</sub>
+
+</div>
