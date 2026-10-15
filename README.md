@@ -1,117 +1,153 @@
-<h1 align="center">Hola 👋, soy Marlon Alvia</h1>
+ 
+<div align="center">
 
-<h3 align="center">
-Backend Developer • Fullstack Developer • Software Engineering Student
-</h3>
+# Hey, I'm Marlon Alvia 👋
 
-<p align="center">
-Apasionado por crear aplicaciones escalables, APIs robustas y soluciones de software con buenas prácticas.
-</p>
+### Software Engineering Student | Backend & Full Stack Developer
 
----
-
-# 💫 Sobre mí
-
-Soy estudiante de Ingeniería de Software y desarrollador con mayor enfoque en **Backend**.
-
-Disfruto diseñar arquitecturas limpias, desarrollar APIs seguras y optimizar bases de datos. Siempre busco aprender nuevas tecnologías y construir proyectos que representen un reto técnico.
-
-Actualmente estoy fortaleciendo mis conocimientos en arquitectura de software, autenticación, bases de datos y desarrollo de aplicaciones modernas.
-
-- 🚀 Backend Developer
-- ⚙️ Desarrollo de APIs REST
-- 🔐 Autenticación con JWT y control de roles
-- 🧱 Clean Architecture & buenas prácticas
-- 📚 Aprendizaje continuo
-- 🤖 Integración de Inteligencia Artificial en proyectos
-
----
-
-# 🚀 Tecnologías
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,django,nodejs,ts,python" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css" />
-</p>
-
-## Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-## Herramientas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-
-## Lenguajes
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarlonX-a&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonX-a&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonX-a&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌱 Actualmente
-
-- 🔐 Desarrollando APIs con NestJS
-- ⚡ Creando aplicaciones con React + Supabase
-- 🏛️ Aprendiendo patrones de arquitectura y diseño de software
-- 🤖 Experimentando con IA para automatizar procesos y mejorar aplicaciones
-
----
-
-# 🎯 Objetivos
-
-- Especializarme como Backend Engineer
-- Contribuir a proyectos Open Source
-- Dominar arquitecturas escalables
-- Aprender Kubernetes y Microservicios
-- Profundizar en Inteligencia Artificial aplicada al desarrollo
-
----
-
-# 🎮 Un poco más sobre mí
-
-💻 Me encanta resolver problemas complejos mediante código.
-
-🎯 Fuera del desarrollo disfruto jugar **Valorant**, aprender nuevas tecnologías y trabajar en proyectos personales.
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg" width="120">
-</p>
-
----
-
-# 📫 Conecta conmigo
-
-<p align="center">
+**Building APIs, web & mobile applications, and exploring how software works under the hood.**
 
 <a href="https://github.com/MarlonX-a">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=MarlonX-a&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views"/>
 </a>
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-6366f1?style=flat"/>
+<img src="https://img.shields.io/badge/Location-Ecuador-22c55e?style=flat"/>
 
-</p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm **Marlon**, a Software Engineering student from Ecuador 🇪🇨, passionate about building software, understanding system architecture, and constantly improving my engineering skills.
+
+My primary focus is **Backend Development**, but I also enjoy building complete experiences across **web and mobile platforms**.
+
+I like going beyond making things work. I'm interested in understanding **why they work, how they're designed, and how they can be improved**.
+
+- ⚙️ Building backend applications with **NestJS, Django and Node.js**
+- 📱 Exploring mobile development with **React Native, Expo and Kotlin**
+- 🌐 Developing web applications with **React and TypeScript**
+- 🏗️ Learning **software architecture, design patterns and system design**
+- 🔐 Interested in **API security, authentication and authorization**
+- 🧠 Exploring **AI, data science and engineering fundamentals**
+- 🚀 Constantly experimenting, learning and building new things
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,cpp&theme=dark"/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nestjs,django,nodejs,express&theme=dark"/>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,androidstudio&theme=dark"/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+**Databases & Cloud Services**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,sqlite&theme=dark"/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark"/>
+
+</div>
+
+---
+
+### 🏗️ What I Like Building
+
+| Area | What I'm Working On |
+|---|---|
+| ⚙️ Backend Engineering | REST APIs, business logic, authentication and modular architectures |
+| 📱 Mobile Development | Cross-platform applications with React Native, Expo and Kotlin exploration |
+| 🌐 Full Stack | Connecting modern interfaces with APIs and databases |
+| 🗄️ Data & Persistence | Relational modeling, SQL and database integration |
+| 🧱 Software Architecture | Maintainability, separation of concerns and design patterns |
+| 🤖 AI & Automation | Exploring intelligent features and developer productivity tools |
+
+---
+
+### 🚀 Projects & Experience
+
+**🔎 FindYourWork — Service Marketplace**
+
+A full-stack service marketplace concept connecting customers with service providers.
+
+`Django` `Django REST Framework` `React` `TypeScript` `REST API`
+
+- Backend API development and relational data modeling
+- Customer and provider roles
+- Service management and booking workflows
+- Authentication and frontend-backend integration
+
+**📱 MontePica — Mobile Application**
+
+A mobile application project developed with React Native and Expo.
+
+`React Native` `Expo` `JavaScript` `NativeWind`
+
+- Mobile interface development
+- Component-based architecture
+- Navigation with Expo Router
+- Feature-based project organization
+
+**⚡ Backend Architecture Experiments**
+
+Exploring different patterns for building backend services.
+
+`NestJS` `REST` `GraphQL` `WebSockets` `TypeScript`
+
+- Modular backend architecture
+- API communication and integration
+- Real-time communication with WebSockets
+- Separation of responsibilities between services
+
+---
+
+### 📚 Currently Learning & Exploring
+
+```text
+Software Engineering
+├── Backend Engineering
+│   ├── NestJS & Django
+│   ├── API Design & Security
+│   ├── Modular Architecture
+│   └── Databases & Persistence
+│
+├── Mobile Engineering
+│   ├── React Native & Expo
+│   ├── Kotlin
+│   └── Mobile App Architecture
+│
+├── Systems & Infrastructure
+│   ├── Docker
+│   ├── Linux
+│   ├── System Design
+│   └── Cloud & DevOps Fundamentals
+│
+└── Exploring
+    ├── Artificial Intelligence
+    ├── Data Science
+    ├── Computer Architecture
+    └── Performance & Optimization
+```
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github
